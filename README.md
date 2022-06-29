@@ -3,6 +3,16 @@
 ## Instructor
 Prof. [Chang Cheng-Shang](https://www.ee.nthu.edu.tw/cschang/)
 
+## Course Coverage
+* Direct-Link Network
+* Packet Switching
+* Internetworking
+* End-to-End Protocols
+* Congestion Control and Resource Allocation
+* End-to-End Data
+* Network Security
+* Applications
+
 ## About this repo
 |                |  Topic                       |  Programming Language |
 |:-------------: |:----------------------------:|:---------------------:|
